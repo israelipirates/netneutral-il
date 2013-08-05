@@ -5,6 +5,6 @@ A website promoting net neutrality in Israel.
 
 Help us fight the good fight.
 
-http://ripper234.github.io/netneutral-il/
+[netneutral.org](http://netneutral.org.il)
 
 (Will be hosted at netneutral.org.il)
